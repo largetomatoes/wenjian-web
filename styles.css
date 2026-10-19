@@ -5,3 +5,5 @@
 
 @media(min-width:761px) and (max-width:900px){.section-heading{display:block}.section-heading>p{margin-top:14px;max-width:none}.demo-disclaimer{max-width:none!important}}
 .map-scroll{scrollbar-width:auto}.map-scroll::-webkit-scrollbar{height:9px}.map-scroll::-webkit-scrollbar-thumb{background:#adb99d;border-radius:8px;border:2px solid var(--surface)}
+
+.install-grid{margin-top:26px;display:grid;gap:12px}.install-grid .install-notes{margin:0;padding:20px 24px;border:1px solid var(--line);border-radius:6px;background:var(--surface)}.install-notes ol{padding-left:23px;max-width:900px;color:var(--body)}.install-notes li{padding:5px 0 5px 4px}.install-notes a,.download-grid small a{text-decoration:underline;text-underline-offset:4px}.install-notes .network-note{padding:12px 16px;background:var(--soft);border-radius:4px;color:var(--ink)}.install-notes[id]{scroll-margin-top:96px}.download-grid small{line-height:1.9}@media(max-width:600px){.install-grid .install-notes{padding:16px}}

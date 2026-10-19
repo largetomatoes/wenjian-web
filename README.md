@@ -35,3 +35,5 @@ python3 -m http.server 8080 --bind 127.0.0.1
 iPhone / iPad 公开入口：https://reader.wenjian-app.workers.dev/read/ 。无需 ChatGPT 登录，各自使用自己的浏览器资料库与坚果云。先 Safari 添加到主屏幕，再从图标接入。iPad 侧栏、书籍网格、横屏原文和本书笔记并排；Web 端单本传输限 80 MB。页面说明、隐私与入口已补充，原生下载继续为 3.14（321）。Web 截图均为虚构测试资料。
 
 2026-10-16：Web App 入口从临时 ChatGPT Sites 地址迁移到作者自有 Cloudflare Workers（reader.wenjian-app.workers.dev），地址不再带邮箱前缀，静态 PWA 与同源坚果云中转保持同一套行为；workers.dev 免费域名在大陆不保证可达。旧地址本机资料需先导出，再在新地址用同一坚果云接入。
+
+2026-10-19：下载区固定 Mac 优先并高亮；补充 macOS 隐私与安全性首次打开步骤、Safari 分享添加主屏幕步骤，以及 Web App 部分网络需代理的提示。此更新只修改官网介绍，Windows 新性能包仍处于本地测试阶段，公开下载保持 build322。
