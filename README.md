@@ -1,6 +1,6 @@
 # 问间官网
 
-当前发布：**3.141（336）**。Mac、Windows、Android 下载使用同一发布标签；iPhone/iPad 使用独立 Web App。
+当前发布：**3.141**。Mac 修复版为 337；Windows、Android 沿用 336；iPhone/iPad 使用独立 Web App。
 
 
 网站地址：<https://largetomatoes.github.io/wenjian-web/>。GitHub Pages 从 `main` 分支根目录发布，使用原生 HTML、CSS、JavaScript，不需要构建或第三方前端依赖。
