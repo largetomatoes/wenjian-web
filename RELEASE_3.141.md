@@ -1,6 +1,6 @@
-# 问间 3.141（340）
+# 问间 3.141（341）
 
-本次优化 Mac 与 Windows 的阅读性能；Android 和 iPhone／iPad Web App 保持 339。
+本次修复 Mac 更新安全问题，须手动下载安装；Windows、Android 和 iPhone／iPad Web App 保持 339。
 
 - 连续阅读进度使用桌面增量保存，保留页面位置和崩溃恢复。
 - 减少识别结果保存后对 PDF 的重复绘制，并优化阅读操作与 OCR 的调度。
