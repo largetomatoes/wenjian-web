@@ -1,6 +1,6 @@
 # 问间官网
 
-当前版本：Mac、Windows、Android 与 iPhone/iPad Web App 统一为 **3.141（343）**。旧桌面版首次升级请先保存并正常退出，再手动覆盖安装；343 及以后保留签名更新能力。
+当前版本：Mac、Windows、Android 与 iPhone/iPad Web App 统一为 **3.141（343）**。桌面安装包恢复标准名称，兼容旧版更新检测；可在设置中重新检查更新。
 
 
 网站地址：<https://largetomatoes.github.io/wenjian-web/>。GitHub Pages 从 `main` 分支根目录发布，使用原生 HTML、CSS、JavaScript，不需要构建或第三方前端依赖。
